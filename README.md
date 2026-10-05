@@ -7,8 +7,13 @@ coordination, timing), and opens the vault if they clear all five.
 Built in Unity 6 / C# for large Windows touchscreens; this repository also ships it as a
 WebGL build so it can be tried in a browser.
 
-**Try it:** open the live build, tap anywhere to start. Open the operator panel by tapping
-the top-left corner five times (PIN `1234`).
+**Try it:** https://chimpuchim.github.io/the-vault-demo/ — tap anywhere to start. Open the
+operator panel by tapping the top-left corner five times (PIN `1234`). Best in a landscape
+window; the first load downloads about 14 MB.
+
+![Attract screen](docs/screenshots/01-attract.jpg)
+![The vault dial](docs/screenshots/07-vault-dial.jpg)
+![Operator panel](docs/screenshots/10-operator-panel.jpg)
 
 ## What is in the prototype
 
